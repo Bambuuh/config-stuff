@@ -11,6 +11,7 @@ android reload: `ANDROID_HOME=$HOME/Library/Android/sdk && $ANDROID_HOME/platfor
 
 ## oh my zsh
 `brew install zsh`
+
 vim mode: `set -o vi`
 
 ## OSX
@@ -20,6 +21,7 @@ alfred
 vimac
 https://vimacapp.com/
 
+alfred
 https://www.alfredapp.com/
 
 f.lux
