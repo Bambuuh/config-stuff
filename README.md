@@ -16,6 +16,7 @@ vim mode: `set -o vi`
 
 ## OSX
 divvy
+
 alfred
 
 vimac
