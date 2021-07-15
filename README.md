@@ -21,6 +21,10 @@ vim mode: `set -o vi`
 
 `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
 
+maybe
+
+`defaults write com.apple.Accessibility KeyRepeatEnabled -bool 0`
+
 ## OSX
 divvy
 
