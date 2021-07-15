@@ -15,9 +15,9 @@ android reload: `ANDROID_HOME=$HOME/Library/Android/sdk && $ANDROID_HOME/platfor
 vim mode: `set -o vi`
 
 ## Key repeat
-`defaults write NSGlobalDomain KeyRepeat -int 1`
+`defaults write NSGlobalDomain KeyRepeat -int 2`
 
-`defaults write NSGlobalDomain InitialKeyRepeat -int 10`
+`defaults write NSGlobalDomain InitialKeyRepeat -int 20`
 
 `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false`
 
