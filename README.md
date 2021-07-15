@@ -14,6 +14,10 @@ android reload: `ANDROID_HOME=$HOME/Library/Android/sdk && $ANDROID_HOME/platfor
 
 vim mode: `set -o vi`
 
+## Key repeat
+defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
+defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
+
 ## OSX
 divvy
 
